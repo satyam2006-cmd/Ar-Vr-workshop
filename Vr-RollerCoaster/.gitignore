@@ -1,0 +1,18 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+
+# OS junk
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Crash reports
+sysinfo.txt
