@@ -11,3 +11,5 @@ A VR shooting game prototype exploring virtual object interaction, aiming mechan
 
 ### Skills & Technologies
 Unity · Virtual Reality · VR Interactions · Game Development
+
+> Note: This project is presented for documentation purposes only. The original source files are currently unavailable, so this repository contains project documentation and screenshots rather than the complete application.
