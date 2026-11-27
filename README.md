@@ -1,7 +1,8 @@
 # AR/VR Workshop
-A collection of four Unity-based AR/VR experiences developed during the IOFT workshop, exploring augmented reality, virtual reality, image tracking, physics, and interactive environments.
 
 ![](https://assets.content.technologyadvice.com/vr_playing_video_2023_11_27_04_59_49_utc_b05e870820_copy_2_d7ac108da2.webp)
+
+A collection of four Unity-based AR/VR experiences developed during the IOFT workshop, exploring augmented reality, virtual reality, image tracking, physics, and interactive environments.
 
 ## Projects :
 1. AR Book
